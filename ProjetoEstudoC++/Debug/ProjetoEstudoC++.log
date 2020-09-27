@@ -1,0 +1,2 @@
+﻿  Datas.cpp
+C:\Projetos\Estudo\C - C++\ProjetoEstudoC++\ProjetoEstudoC++\Datas.cpp(18,23): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
