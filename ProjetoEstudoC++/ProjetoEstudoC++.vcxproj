@@ -139,6 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\av2.cpp" />
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\ProgramaAluno.cpp" />
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\Struct com Função.cpp" />
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\StructAluno.cpp" />
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\Usando Lista com Função.cpp" />
     <ClCompile Include="Principal.cpp" />
   </ItemGroup>
   <ItemGroup>

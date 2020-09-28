@@ -1,2 +1,6 @@
-﻿  Principal.cpp
-  ProjetoEstudoC++.vcxproj -> C:\Projetos\Estudo\C - C++\ProjetoEstudoC++\x64\Debug\ProjetoEstudoC++.exe
+﻿  StructAluno.cpp
+C:\Aulas\Faculdade\Estrutura de Dados\StructAluno.cpp(33,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Aulas\Faculdade\Estrutura de Dados\StructAluno.cpp(34,42): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Aulas\Faculdade\Estrutura de Dados\StructAluno.cpp(35,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Aulas\Faculdade\Estrutura de Dados\StructAluno.cpp(36,32): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Aulas\Faculdade\Estrutura de Dados\StructAluno.cpp(37,31): warning C4305: 'argumento': truncamento de 'double' para 'float'

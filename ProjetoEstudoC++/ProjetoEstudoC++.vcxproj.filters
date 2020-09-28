@@ -18,6 +18,21 @@
     <ClCompile Include="Principal.cpp">
       <Filter>Arquivos de Recurso</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\StructAluno.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\Usando Lista com Função.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\av2.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\ProgramaAluno.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Aulas\Faculdade\Estrutura de Dados\Struct com Função.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Datas.h">
